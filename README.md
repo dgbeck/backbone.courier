@@ -1,3 +1,4 @@
+### NOTE : This repository's root [has been moved here](https://github.com/rotundasoftware). Please refer to that branch for most current documenation and code, and submit your issues and pull requests there.
 
 # Backbone.Courier
 
